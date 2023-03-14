@@ -1,0 +1,10 @@
+﻿  Reading Qt configuration (C:/Qt/6.2.4/msvc2019_64/bin/qmake)
+  uic qt_Clothes.ui
+  rcc qt_Clothes.qrc
+  moc qt_Clothes.h
+   RCC: Warning: No resources in 'C:\Users\maria\Documents\OOP\qt_Clothes\qt_Clothes.qrc'.
+  qt_Clothes.cpp
+  main.cpp
+  qrc_qt_Clothes.cpp
+  moc_qt_Clothes.cpp
+  qt_Clothes.vcxproj -> C:\Users\maria\Documents\OOP\qt_Clothes\x64\Debug\qt_Clothes.exe
